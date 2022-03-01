@@ -5,6 +5,8 @@
 日期：2022年 03月 01日
 
 """
+import sys
+sys.path.append('D:\pom')
 from myunit import Munit
 from pages.baidu_page import BaiduPage
 from time import sleep
